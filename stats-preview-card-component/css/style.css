@@ -21,14 +21,12 @@ body{
     background-color:hsl(244, 38%, 16%);
     border-radius: 10px;
     overflow: hidden;
-    /*width: 1000px; */
 }
 
 .card-header h1{
     color: #FFF;
     font-family: 'Inter', sans-serif;
     margin-bottom: 40px;
-    /* font-size: 2.1rem; */
 }
 
 .card-header strong{
